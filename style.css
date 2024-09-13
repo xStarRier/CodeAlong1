@@ -1,0 +1,53 @@
+#sentence{
+    margin-top:20px;
+    margin-bottom:20px;
+    font-size: 37px;
+    font-family: sans-serif;
+    }   
+    
+    .hiBtn{
+    background-color: rgb(255, 135, 135);
+    font-family: sans-serif; 
+    font-size: large;
+    height: 50px;
+    width: 150px;
+    border-radius: 2.5px;
+    cursor: pointer;
+    
+    }   
+    .helloBtn{
+    background-color: rgb(255, 230, 0);  
+    font-family: sans-serif; 
+    font-size: large;
+    height: 50px;
+    width: 150px;
+    border-radius: 2.5px;
+    cursor: pointer;
+    }   
+    .yoBtn{
+       background-color: rgb(0, 255, 157);
+       font-family: sans-serif; 
+       font-size: large;
+       height: 50px;
+       width: 150px;
+       border-radius: 2.5px;
+       cursor: pointer;
+    }   
+    .supBtn{
+       background-color: rgb(121, 135, 255);
+       font-family: sans-serif; 
+       font-size: large;
+       height: 50px;
+       width: 150px;
+       border-radius: 2.5px;
+       cursor: pointer;
+    }   
+    .byeBtn{
+       background-color: rgb(248, 56, 255);
+       font-family: sans-serif; 
+       font-size: large;
+       height: 50px;
+       width: 150px;
+       border-radius: 2.5px;
+       cursor: pointer;
+    }   
